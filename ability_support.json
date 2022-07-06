@@ -2198,5 +2198,443 @@
     "net.tslat.aoa3.entity.mobs.overworld.lunarinvasion.EntityModulo": [
         "hostile",
         "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityAncientGolem": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityBombCarrier": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityBoneback": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityBugeye": [
+        "climb",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityBushBaby": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityCharger": [
+        "potionEffect|1,600,2,true",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityChimera": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityChomper": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityCyclops": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityDesertCharger": [
+        "potionEffect|1,600,2,true",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityEverbeast": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityFishix": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityFurlion": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityGhost": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityGoalby": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityGoblin": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityHag": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityHidingFungi": [
+        "potionEffect|2,600,10,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityLivingFungi": [
+        "poisonResistance",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityHillCharger": [
+        "potionEffect|1,600,2,true",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityHorndron": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.bigday.EntityIceGiant": [
+        "potionEffect|2,400,1,true",
+        "sink",
+        "waterAllergy"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityKingCharger": [
+        "potionEffect|1,600,2,true",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityMotherVoidWalker": [
+        "potionEffect|16,600,1,true",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityMuckopede": [
+        "climb",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityNightReaper": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityPincher": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.bigday.EntitySandGiant": [
+        "hostile",
+        "sink",
+        "waterAllergy",
+        "potionEffect|2,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntitySandGolem": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntitySasquatch": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntitySeaCharger": [
+        "hostile",
+        "swim|false,1.2F,0.4F,true",
+        "potionEffect|1,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntitySeaTroll": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityShade": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityShadow": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntitySnowCharger": [
+        "hostile",
+        "potionEffect|1,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntitySphinx": [
+        "hostile",
+        "waterAllergy",
+        "sink"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.bigday.EntityStoneGiant": [
+        "hostile",
+        "sink",
+        "potionEffect|2,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntitySwampCharger": [
+        "hostile",
+        "potionEffect|1,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityDeadTree": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityTrickster": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityVoidCharger": [
+        "hostile",
+        "potionEffect|1,600,2,true",
+        "potionEffect|16,600,1,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityVoidWalker": [
+        "hostile",
+        "potionEffect|16,600,1,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.bigday.EntityWoodGiant": [
+        "hostile",
+        "sink",
+        "potionEffect|2,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityYeti": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.nether.EntityEmbrake": [
+        "hostile",
+        "fireImmunity"
+    ],
+    "net.tslat.aoa3.entity.mobs.nether.EntityFlamewalker": [
+        "hostile",
+        "fireImmunity"
+    ],
+    "net.tslat.aoa3.entity.mobs.nether.EntityInfernal": [
+        "hostile",
+        "fireImmunity"
+    ],
+    "net.tslat.aoa3.entity.boss.kingbambambam.EntityLittleBam": [
+        "hostile",
+        "fireImmunity"
+    ],
+    "net.tslat.aoa3.entity.mobs.nether.EntityNethengeicBeast": [
+        "hostile",
+        "fireImmunity"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.fullmoon.EntityScrubby": [
+        "hostile",
+        "fireImmunity"
+    ],
+    "net.tslat.aoa3.entity.mobs.nether.EntitySkeletalCowman": [
+        "hostile",
+        "fireImmunity",
+        "poisonResistance",
+        "witherResistance"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.bloodhunt.EntityAnemia": [
+        "fly|true",
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.abyss.EntityApparition": [
+        "hostile",
+        "witherResistance"
+    ],
+    "net.tslat.aoa3.entity.mobs.abyss.EntityBloodsucker": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.abyss.EntityDistorter": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.abyss.EntityFiend": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.abyss.EntityFleshEater": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.abyss.EntityJawe": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.abyss.EntityOcculent": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.abyss.EntityWebReaper": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityArkback": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityCryptid": [
+        "hostile",
+        "fireImmunity"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityEchodar": [
+        "hostile",
+        "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityEmperorBeast": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityKeeler": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityNospike": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityParasect": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityRamradon": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntitySquiggler": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.barathos.EntityTharafly": [
+        "hostile",
+        "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.candyland.EntityAirhead": [
+        "hostile",
+        "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.candyland.EntityCandyCorny": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.candyland.EntityCaneBug": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.candyland.EntityCherryBlaster": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.candyland.EntityGingerbird": [
+        "hostile",
+        "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.candyland.EntityGingerbreadMan": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.candyland.EntityLollypopper": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntityBobo": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntityChocko": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntityJumbo": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntityKoko": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntityKranky": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntitySnappy": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntityStitches": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntitySticky": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.celeve.EntityTipsy": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.creeponia.EntityBoneCreeper": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.creeponia.EntityCaveCreepoid": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.creeponia.EntityCreeperlock": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.creeponia.EntityCreepird": [
+        "hostile",
+        "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.creeponia.EntityCreepuple": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.creepday.EntityHost": [
+        "hostile",
+        "float|-0.114,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.creeponia.EntityKingCreeper": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.creeponia.EntityMagicalCreeper": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.creeponia.EntityWingedCreeper": [
+        "hostile",
+        "float|-0.114,true",
+        "potionEffect|8,600,1,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.crystevia.EntityConstructFlight": [
+        "hostile",
+        "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.crystevia.EntityConstructMind": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.crystevia.EntityConstructRange": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.crystevia.EntityConstructResistance": [
+        "hostile",
+        "potionEffect|11,600,3,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.crystevia.EntityConstructSpeed": [
+        "hostile",
+        "potionEffect|1,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.crystevia.EntityConstructStrength": [
+        "hostile",
+        "potionEffect|5,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.crystevia.EntityConstructTerror": [
+        "hostile",
+        "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityArocknid": [
+        "hostile",
+        "climb"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityCaseConstruct": [
+        "hostile",
+        "fireImmunity"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityCaveCreep": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityDoubler": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityDweller": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityNipper": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityRockbiter": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityRockCrawler": [
+        "hostile",
+        "climb"
+    ],
+    "net.tslat.aoa3.entity.mobs.deeplands.EntityRockCritter": [
+        "hostile",
+        "climb"
+    ],
+    "net.tslat.aoa3.entity.passive.EntityShik": [
+        "climb"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityArkzyne": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityBasilisk": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityCrusilisk": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityDevourer": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityDusteiva": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityDuston": [
+        "hostile",
+        "fly|true"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityDustStrider": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityLostSoul": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityLurker": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityMerkyre": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.dustopia.EntityStalker": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.overworld.EntityUrka": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.gardencia.EntityArchvine": [
+        "hostile",
+        "potionEffect|10,600,2,true"
+    ],
+    "net.tslat.aoa3.entity.mobs.gardencia.EntityBroccohead": [
+        "hostile"
+    ],
+    "net.tslat.aoa3.entity.mobs.gardencia.EntityCarrotop": [
+        "hostile"
     ]
 }

@@ -3246,5 +3246,9 @@
     ],
     "pavocado.exoticbirds.entity.Birds.EntityWoodpecker": [
         "fly|true"
+    ],
+    "thebetweenlands.common.entity.mobs.EntityChiromawMatriarch": [
+        "hostile",
+        "fly|true"
     ]
 }
